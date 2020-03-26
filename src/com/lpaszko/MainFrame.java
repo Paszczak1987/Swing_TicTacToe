@@ -21,7 +21,7 @@ public class MainFrame extends JFrame {
 
 	public MainFrame() {
 
-		setTitle("Kó³ko i krzay¿yk");
+		setTitle("Kó³ko i krzy¿yk");
 		setSize(DEFAULT_WIDTH, DEFAULT_HEIGHT);
 		setResizable(false);
 		getContentPane().setBackground(Color.WHITE);
